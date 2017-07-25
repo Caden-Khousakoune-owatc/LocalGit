@@ -33,13 +33,13 @@
             // 
             // btnHello
             // 
-            this.btnHello.Location = new System.Drawing.Point(115, 84);
+            this.btnHello.Location = new System.Drawing.Point(133, 87);
             this.btnHello.Name = "btnHello";
             this.btnHello.Size = new System.Drawing.Size(75, 23);
             this.btnHello.TabIndex = 0;
-            this.btnHello.Text = "button1";
+            this.btnHello.Text = "button";
             this.btnHello.UseVisualStyleBackColor = true;
-            this.btnHello.Click += new System.EventHandler(this.btnHello_Click);
+            this.btnHello.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
